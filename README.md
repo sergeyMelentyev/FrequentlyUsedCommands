@@ -1,4 +1,4 @@
-**HEROKU**
+**HEROKU** &#x000D;
 wget -q0- https://cli-assets.heroku.com/install-ubuntu.sh | sh
 heroku -v
 heroku login
