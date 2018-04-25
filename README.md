@@ -17,3 +17,18 @@ heroku create
 **GOOGLE OAUTH**
 
 https://console.developers.google.com
+
+
+
+***
+
+
+**MONGODB**
+
+sudo service mongod start
+
+sudo service mongod stop
+
+sudo service mongod restart
+
+mongo --host 127.0.0.1:27017
